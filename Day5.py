@@ -109,7 +109,7 @@
 
 
 
-# How its time too pushh the codeeee
+# Now its time too pushh the codeeee
 # Your have collected one more bounty 
 # Soon you are going to masterrr the language
 
