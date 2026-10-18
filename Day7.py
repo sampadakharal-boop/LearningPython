@@ -1,6 +1,6 @@
 # Day-7 of learning 
 
-# Loops and Sequences 
+# Listss
 
 
 cities = [' Los Angeles', 'London', 'Tokyo']
