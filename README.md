@@ -5,6 +5,13 @@ I will push all the python codes that I will be learning in coming days . 100 Da
 
 This repository documents my journey of learning Python from the basics to more advanced concepts. I am practising daily, writing code, and improving my problem-solving skills.
 
+
+Days 1–10 were dedicated to revising Python concepts I had already learned. During this period, I reviewed the basics and strengthened my understanding of previously covered topics.
+
+From 1 November 2026, I will begin a structured and systematic Python learning schedule, starting with Day 11, focusing on learning new concepts step by step and building a strong foundation in Python.
+
+## The Python concepts I revised during Days 1–10 are listed below:
+
 ## Topics Covered
 
 ### Day 1: Python Basics
@@ -78,4 +85,4 @@ This repository documents my journey of learning Python from the basics to more 
 
 I am continuously updating this repository as I learn new concepts and practise Python programming.
 
-**Learning one concept at a time, one day at a time.**
+I was just 
